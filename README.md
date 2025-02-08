@@ -2,7 +2,7 @@
 
 Este repositório contém atividades de prática sobre Git e GitHub
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="200" />
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="250" />
 
 ## Objetivo
 Aprender a implementar as funcionalidades do Git e GitHub
@@ -12,7 +12,7 @@ Aprender a implementar as funcionalidades do Git e GitHub
 * Instale o Git - [Git - Página Oficial](https://git-scm.com/)
 
  
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="300" />
+<img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" width="300" />
 
  
 
@@ -99,7 +99,6 @@ git checkout main
 
 
 * Você poderá rever os arquivos, aceitar o merge ou recusar, explore!
-* Há outros comandos do git também que são interessantes mas esses são os principais
 
 
 

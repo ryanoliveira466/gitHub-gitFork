@@ -99,6 +99,7 @@ git checkout main
 
 
 * Você poderá rever os arquivos, aceitar o merge ou recusar, explore!
+* Há outros comandos do git também que são interessantes mas esses são os principais
 
 
 
